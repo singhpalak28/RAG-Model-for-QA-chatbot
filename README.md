@@ -71,7 +71,7 @@ Once the Docker container is running, you can access the interactive QA bot inte
 
 ## Usage
 **Upload a Document:**
--Open the application in a web browser (http://localhost:8501).
+-Open the application in a web browser (http://localhost:7860).
 -Upload a PDF document.
 **Ask Questions:**
 -Type a question in the provided input box.
@@ -89,16 +89,7 @@ Once the Docker container is running, you can access the interactive QA bot inte
     ├── requirements.txt       # Python dependencies
     ├── RAG.ipynb              # Colab notebook demonstrating the entire RAG pipeline
     └── README.md              # Project documentation
-   
 
-## Contributions
-Contributions are welcome! Please follow these steps:
-
--Fork the repository.
--Create a new branch (git checkout -b feature-branch).
--Make your changes.
--Commit and push your changes (git push origin feature-branch).
--Open a pull request.
 
 
 
