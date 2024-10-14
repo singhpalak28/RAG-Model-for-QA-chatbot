@@ -87,7 +87,6 @@ Once the Docker container is running, you can access the interactive QA bot inte
     ├── app.py                 # Frontend application (Gradio)
     ├── backend.py             # Backend logic for the RAG model
     ├── requirements.txt       # Python dependencies
-    ├── RAG.ipynb              # Colab notebook demonstrating the entire RAG pipeline
     └── README.md              # Project documentation
 
 
