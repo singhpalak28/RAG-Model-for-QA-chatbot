@@ -70,13 +70,13 @@ To make it easier to run and deploy, the application is fully containerized. You
 Once the Docker container is running, you can access the interactive QA bot interface via your browser at 'http://localhost:7860'.
 
 ## Usage
-**Upload a Document:**
+1. **Upload a Document:**
   - Open the application in a web browser (http://localhost:7860).
   - Upload a PDF document.
-**Ask Questions:**
+2. **Ask Questions:**
   - Type a question in the provided input box.
   - The bot will retrieve relevant content from the uploaded document and generate a response.
-**View Responses:**
+3. **View Responses:**
   - The retrieved document segments will be displayed along with the generated answer.
 
 ## Project Structure
