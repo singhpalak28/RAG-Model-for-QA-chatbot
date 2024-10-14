@@ -71,13 +71,13 @@ Once the Docker container is running, you can access the interactive QA bot inte
 
 ## Usage
 **Upload a Document:**
-  -Open the application in a web browser (http://localhost:7860).
-  -Upload a PDF document.
+  - Open the application in a web browser (http://localhost:7860).
+  - Upload a PDF document.
 **Ask Questions:**
-  -Type a question in the provided input box.
-  -The bot will retrieve relevant content from the uploaded document and generate a response.
+  - Type a question in the provided input box.
+  - The bot will retrieve relevant content from the uploaded document and generate a response.
 **View Responses:**
-  -The retrieved document segments will be displayed along with the generated answer.
+  - The retrieved document segments will be displayed along with the generated answer.
 
 ## Project Structure
     '''bash
